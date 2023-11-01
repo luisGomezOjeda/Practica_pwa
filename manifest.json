@@ -6,6 +6,7 @@
 "background_color": "#fdfdfd",
 "theme_color": "#db4938",
 "orientation": "portrait-primary",
+"scope" : "./practica_pwa/",
 "icons": [
   {
     "src": "./images/icons8-espresso-taza-llena-100.png",
